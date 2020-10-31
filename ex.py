@@ -1,6 +1,6 @@
-print('ola')
-for i in range(10):
-    print('olá')
+n = 0
+while(n<50):
+    print('testando')
 
-print("workshop tsssssop")
-print("oiii")
+for i in range(15):
+    print('testando2')
